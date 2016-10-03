@@ -1,6 +1,12 @@
 com\mohit\program\controller\DefaultController.class
+com\mohit\program\controller\customer\SupplierController.class
 com\mohit\program\controller\product\DeleteController.class
 com\mohit\program\controller\product\ProductController.class
+com\mohit\program\controller\logout\LogoutController.class
+com\mohit\program\controller\admin\SecurityController.class
+com\mohit\program\DAO\impl\SupplierDAOImpl.class
+com\mohit\program\entity\Supplier.class
+com\mohit\program\DAO\SupplierDAO.class
 com\mohit\program\DAO\impl\ProductDAOImpl$2.class
 com\mohit\program\entity\Product.class
 com\mohit\program\DAO\impl\ProductDAOImpl.class

@@ -14,7 +14,9 @@
             <a href="${pageContext.request.contextPath}/displayproduct" class="btn btn-success">Product</a>
             <a href="${pageContext.request.contextPath}/customer" class="btn btn-success"><span class="glyphicon glyphicon-plus"></span>Customer</a>
             <a href="${pageContext.request.contextPath}/supplier" class="btn btn-success"><span class="glyphicon glyphicon-plus"></span>Supplier</a>
-            
+            <div class="pull-right">
+                <a href="${pageContext.request.contextPath}/logout" class="btn btn-success">Logout</a>
+            </div>
             <h1 class="text-center" style="font-family:cursive">Inventory Management System</h1>
         </div>
     </body>
